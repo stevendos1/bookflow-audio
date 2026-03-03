@@ -1,0 +1,5 @@
+pytest
+ruff
+pyttsx3
+pymupdf
+PySide6

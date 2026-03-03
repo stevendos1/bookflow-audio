@@ -1,0 +1,9 @@
+Prueba inicial del texto
+Esto es un prefacio que va en el index 0.
+
+###
+Solo capítulo delimitado sin nombre
+Cuerpo del capítulo.
+
+### El Titulo
+Y este si tiene nombre... Ñandú áéíóú.
