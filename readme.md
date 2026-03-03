@@ -12,7 +12,7 @@ Aplicación para abrir libros (`.epub`, `.txt`, `.pdf`) y escucharlos como audio
 
 ## 1) Instalacion rapida (1 click)
 
-En la carpeta [installers](/home/steven/Documents/lector de libros/installers) tienes:
+En la carpeta `installers/` tienes:
 
 - `install-linux.sh`
 - `install-mac.command`
