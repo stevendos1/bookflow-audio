@@ -137,3 +137,15 @@ python -m src.infrastructure.main status
 
 - Error `FileNotFoundError: mpg123`:
   - Instala `mpg123` y verifica que esté en `PATH`.
+
+## 7) Seguridad
+
+- Politica de seguridad del repo: `SECURITY.md`
+- Notas para usuarios: `docs/security.md`
+
+## 8) Licencia
+
+- Licencia del codigo: `LICENSE` (PolyForm Noncommercial 1.0.0).
+- Uso no comercial: permitido (incluye estudiar, modificar y usar localmente).
+- Uso comercial: requiere permiso previo por escrito.
+- Solicitud comercial: `COMMERCIAL_LICENSE.md` (contacto en este mismo GitHub).
